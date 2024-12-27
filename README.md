@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=robsonos&show=prs_merged,prs_merged_percentage)
+
+[![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonos&layout=donut)](https://github.com/robsonos)
